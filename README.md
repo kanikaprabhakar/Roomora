@@ -4,7 +4,9 @@ Roomora is a web application that helps students find rooms and compatible roomm
 
 🚀 Features
 User authentication (student / owner)
+
 AI-based roommate matching
+
 Room listings with filters
 Image & 360° view support
 Real-time chat (Socket.IO)
